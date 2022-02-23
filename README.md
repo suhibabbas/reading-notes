@@ -9,4 +9,4 @@ This is my reading notes It contains information about the topics we are learnin
 | The code      | Name          | link  |
 | :------------ |:-------------:| -----:|
 | Prep          | The Growth Mindset | [The Growth Mindset](https://suhibabbas.github.io/reading-notes/TheGrowthMindset) |
-|       |  | []() |
+| Prep          | Terminal Practice  | [Terminal Practice](https://suhibabbas.github.io/reading-notes/TerminalPractice) |
