@@ -17,11 +17,11 @@ The Java programming languge defines different type of variables:
 public static void main(String[] args)
 ```
 
-![Variables](../img/variables.png)
+![Variables](./img/variables.png)
 
 ## Operators
 
-![Operators](../img/Operator.png)
+![Operators](./img/Operator.png)
 
 ## Expressions, Statements, and Blocks
 
@@ -29,20 +29,20 @@ public static void main(String[] args)
 
 Example
 
- ![Expressions](../img/ex1.png)
+ ![Expressions](./img/ex1.png)
 
 **Statements:**
  Such statements are called expression statements.
 
 Example
 
- ![Statements](../img/ex2.png)
+ ![Statements](./img/ex2.png)
 
 **Blocks:**
 
 Example
 
- ![Blocks](../img/ex3.png)
+ ![Blocks](./img/ex3.png)
 
 ## Control Flow Statements
 

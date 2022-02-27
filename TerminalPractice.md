@@ -5,7 +5,7 @@
 **what are they exactly**
 A command line is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
-![terminal code](../img/Screenshot_3.png)
+![terminal code](./img/Screenshot_3.png)
 
 ## Navigation
 
@@ -13,13 +13,13 @@ A command line is a text based interface to the system. You are able to enter co
 
  PWD:The command does just that. It tells you what your current or present working directory is. Give it a try now
 
-![PWD code](../img/Screenshot_4.png)
+![PWD code](./img/Screenshot_4.png)
 
 **What's in Owr Current Location?**
 
 ls : this command show us what in the current location.
 
-![PWD code](../img/Screenshot_5.png)
+![PWD code](./img/Screenshot_5.png)
 
 ## More About File
 
@@ -31,7 +31,7 @@ ls -a: List the contents of a directory, including hidden files.
 
 ## Manual Pages
 
-![MAN LS code](../img/Screenshot_6.png)
+![MAN LS code](./img/Screenshot_6.png)
 
 ## File Manipulation
 
@@ -47,5 +47,5 @@ ls -a: List the contents of a directory, including hidden files.
 
  rm -r :Removing a File (and non empty Directories)
 
- ![Cheat Sheet ](../img/Screenshot_7.png)
- ![Cheat Sheet ](../img/Screenshot_8.png)
+ ![Cheat Sheet ](./img/Screenshot_7.png)
+ ![Cheat Sheet ](./img/Screenshot_8.png)

@@ -51,7 +51,7 @@ class ImportTest {
 
 ### Common imports
 
-![imports](../img/imports.png)
+![imports](./img/imports.png)
 
 ## Loops
 
