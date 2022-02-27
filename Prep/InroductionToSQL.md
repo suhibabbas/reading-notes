@@ -23,8 +23,6 @@ Example:
     from movies;
 ```
 
-***
-
 ## Queries with constraints
 
 ```SQL
@@ -39,8 +37,8 @@ Using the WHERE statement, we can display subsets of tables based on conditions 
 This video above shows how this can be used, and in the upcoming concepts, you will learn some common operators that are useful with the WHERE' statement.\
 Common symbols used in WHERE statements include:
 
-![Common symbols](./img/SQL/sql1.png)
-![Common symbols](./img/SQL/sql2.png)
+![Common symbols](../img/SQL/sql1.png)
+![Common symbols](../img/SQL/sql2.png)
 **Examples**
 
 - FInd Movie in **id** row 6:
@@ -70,8 +68,6 @@ Common symbols used in WHERE statements include:
     SELECT * FROM movies
     WHERE NOT Director LIKE "%John Lasseter%";
 ```
-
-***
 
 ## Filtering and sorting Query results
 
@@ -121,8 +117,6 @@ Example:
         LIMIT 5 OFFSET 5;
     ```
 
-***
-
 ## Multi-table queries with JOINs
 
 The **INNER JOIN** is a process that matches rows from the first table and the second table which have the same key (as defined by the ON constraint) to create a result row with the combined columns from both tables. After the tables are joined, the other clauses we learned previously are then applied.
@@ -139,7 +133,7 @@ The **INNER JOIN** is a process that matches rows from the first table and the s
 
 **Example:**
 
-![Table](./img/SQL/table.png)
+![Table](../img/SQL/table.png)
 
 1. Find the domestic and international sales for each movie
 
@@ -172,7 +166,6 @@ The **INNER JOIN** is a process that matches rows from the first table and the s
 
 ## OUTER JOINs
 
-***
 Like the INNER JOIN these three new joins have to specify which column to join the data on.
 When joining table A to table B, a LEFT JOIN simply includes rows from A regardless of whether a matching row is found in B. The RIGHT JOIN is the same, but reversed, keeping rows in B regardless of whether a match is found in A. Finally, a FULL JOIN simply means that rows from both tables are kept, regardless of whether a matching row exists in the other table.
 
@@ -191,7 +184,7 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
 ```
 
 **Example:**
-![Table](./img/SQL/table2.png)
+![Table](../img/SQL/table2.png)
 
 1. Find the list of all buildings that have employees.
 
@@ -211,8 +204,6 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
 
 ## A short note on NULLs
 
-***
-
 ```SQL
     SELECT column, another_column, …
     FROM mytable
@@ -223,7 +214,7 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
 
 **Examples:**
 
-![Table](./img/SQL/table2.png)
+![Table](../img/SQL/table2.png)
 
 1. Find the name and role of all employees who have not been assigned to a building
 
@@ -245,13 +236,11 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
 
 ## Queries with expressions
 
-***
-
-![Queries](./img/SQL/Queries.png)
+![Queries](../img/SQL/Queries.png)
 
 **Examples:**
 
-![Table](./img/SQL/table3.png)
+![Table](../img/SQL/table3.png)
 
 1. List all movies and their combined sales in millions of dollars
 
@@ -279,8 +268,6 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
         WHERE year % 2 = 0;
     ```
 
-***
-
 ## Queries with aggregates
 
 ```SQL
@@ -288,7 +275,8 @@ When joining table A to table B, a LEFT JOIN simply includes rows from A regardl
      FROM mytable
      WHERE constraint_expression;
 ```
-![Aggregate Functions](./img/SQL/AggregateFunctions.png)
+
+![Aggregate Functions](../img/SQL/AggregateFunctions.png)
 
 **Grouped aggregate functions:**
 
