@@ -13,3 +13,5 @@ This is my reading notes It contains information about the topics we are learnin
 |  Prep         | Inroduction To SQL | [Inroduction To SQL](https://suhibabbas.github.io/reading-notes/InroductionToSQL)  |
 |  Read: 01     | Java Basics    | [Java Basics](https://suhibabbas.github.io/reading-notes/JavaBasics)  |
 |  Read: 02     | Arrays, Loops, Imports    | [Arrays, Loops, Imports](https://suhibabbas.github.io/reading-notes/Arrays) |
+|  Read: 03     |     | []() |
+|  Read: 04     | Object-Oriented    | [Object-Oriented](https://suhibabbas.github.io/reading-notes/oop) |
