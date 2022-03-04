@@ -15,6 +15,4 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 02     | Arrays, Loops, Imports    | [Arrays, Loops, Imports](https://suhibabbas.github.io/reading-notes/Arrays) |
 |  Read: 03     | Maps, primitives, File I/O| [Maps, primitives, File I/O](https://suhibabbas.github.io/reading-notes/map) |
 |  Read: 04     | Object-Oriented    | [Object-Oriented](https://suhibabbas.github.io/reading-notes/oop) |
-|  Read: 06     |  Inheritance and Interfaces    | [Inheritance and Interfaces](https://suhibabbas.github.io/reading-notes/InheritanceAndInterfaces) |
-
-
+|  Read: 06     |  Inheritance and Interfaces    | [Inheritance and Interfaces](https://suhibabbas.github.io/reading-notes/interfaces) |
