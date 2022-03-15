@@ -14,9 +14,9 @@ Common terminology for a stack is
 
 Stacks follow these concepts:
 
-    **FILO:** First In Last Out
+**FILO:** First In Last Out
 
-    **LIFO:** Last In First Out
+**LIFO:** Last In First Out
 
 **Stack Visualization:**
 
