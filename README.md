@@ -15,10 +15,11 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 02     | Arrays, Loops, Imports    | [Arrays, Loops, Imports](https://suhibabbas.github.io/reading-notes/Arrays) |
 |  Read: 03     | Maps, primitives, File I/O| [Maps, primitives, File I/O](https://suhibabbas.github.io/reading-notes/map) |
 |  Read: 04     | Object-Oriented           | [Object-Oriented](https://suhibabbas.github.io/reading-notes/oop) |
-|  Read: 06     |  Inheritance and Interfaces    | [Inheritance and Interfaces](https://suhibabbas.github.io/reading-notes/interfaces) |
-|  Read: 07     |  OOP          | [Inheritance and Interfaces](https://suhibabbas.github.io/reading-notes/oop) |
+|  Read: 06     | Inheritance and Interfaces           | [Inheritance and Interfaces ](https://suhibabbas.github.io/reading-notes/ini) |
+|  Read: 07     |  OOP          | [OOP ](https://suhibabbas.github.io/reading-notes/oop) |
 |  Read: 08     |  OO Design    | [OO Design](https://suhibabbas.github.io/reading-notes/OODesign) |
 |  Read: 09     |  Stacks And Queues    | [Stacks And Queues](https://suhibabbas.github.io/reading-notes/StacksAndQueues) |
 |  Read: 10     |  WRRC          | [WRRC](https://suhibabbas.github.io/reading-notes/WRRC) |
 |  Read: 11     |  Spring MVC    | [Spring MVC](https://suhibabbas.github.io/reading-notes/Spring) |
 |  Read: 12     |  Spring RESTful Routing & Static Files    | [Spring RESTful Routing & Static Files](https://suhibabbas.github.io/reading-notes/Spring2) |
+|  Read: 13     |  Related Resources & Integration Testing    | [Related Resources & Integration Testing](https://suhibabbas.github.io/reading-notes/reading13) |
