@@ -23,3 +23,5 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 11     |  Spring MVC    | [Spring MVC](https://suhibabbas.github.io/reading-notes/Spring) |
 |  Read: 12     |  Spring RESTful Routing & Static Files    | [Spring RESTful Routing & Static Files](https://suhibabbas.github.io/reading-notes/Spring2) |
 |  Read: 13     |  Related Resources & Integration Testing    | [Related Resources & Integration Testing](https://suhibabbas.github.io/reading-notes/reading13) |
+|  Read: 14     |  Spring Authentication    | [Spring Authentication](https://suhibabbas.github.io/reading-notes/authentication) |
+
