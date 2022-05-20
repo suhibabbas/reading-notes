@@ -26,6 +26,7 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 14     |  Spring Authentication    | [Spring Authentication](https://suhibabbas.github.io/reading-notes/authentication) |
 |  Read: 17     |  Spring Authorization    | [Spring Authorization](https://suhibabbas.github.io/reading-notes/Authorization) |
 |  Read: 18     |  Web App Security    | [Web App Security](https://suhibabbas.github.io/reading-notes/security) |
-|  Read: 19    |  Purely functional programming    | [Purely functional programming](https://suhibabbas.github.io/reading-notes/PFG)
+|  Read: 19    |  Purely functional programming    | [Purely functional programming](https://suhibabbas.github.io/reading-notes/PFG)|
+|  Read: 26    |  GraphQL    | [GraphQL](https://suhibabbas.github.io/reading-notes/AndroidFundamentals)|
 |  Read: 32    |  Serverless and Amplify    | [Serverless and Amplify](https://suhibabbas.github.io/reading-notes/ServerlessAndAmplify)|
 |  Read: 33    |  GraphQL    | [GraphQL](https://suhibabbas.github.io/reading-notes/GraphQL)|
