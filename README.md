@@ -35,4 +35,5 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 31    |   Amplify    | [Amplify](https://suhibabbas.github.io/reading-notes/Amplify)|
 |  Read: 32    |  Serverless and Amplify    | [Serverless and Amplify](https://suhibabbas.github.io/reading-notes/ServerlessAndAmplify)|
 |  Read: 33    |  GraphQL    | [GraphQL](https://suhibabbas.github.io/reading-notes/GraphQL)|
+|  Read: 34    |  Monetization    | [Monetization](https://suhibabbas.github.io/reading-notes/Monetization)|
 |  Read: 37    |  S3    | [S3](https://suhibabbas.github.io/reading-notes/s3)|
