@@ -43,4 +43,4 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 41    |  Intent Filters    | [Intent Filters](https://suhibabbas.github.io/reading-notes/Filters)|
 |  Read: 42    |  AdMob Ads  | [AdMob Ads](https://suhibabbas.github.io/reading-notes/read42)
 |  Read: 43    |  Open-Source    | [Open-Source](https://suhibabbas.github.io/reading-notes/OpenSource)|
-|  Read: 44    |  Ethics in Tech    | [Ethics in Tech](https://suhibabbas.github.io/reading-notes/OpenSource)|
+|  Read: 44    |  Ethics in Tech    | [Ethics in Tech](https://suhibabbas.github.io/reading-notes/EthicsInTech)|
