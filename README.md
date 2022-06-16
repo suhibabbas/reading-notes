@@ -39,4 +39,5 @@ This is my reading notes It contains information about the topics we are learnin
 |  Read: 34    |  Cognito    | [Cognito](https://suhibabbas.github.io/reading-notes/Cognito)|
 |  Read: 37    |  S3    | [S3](https://suhibabbas.github.io/reading-notes/s3)|
 |  Read: 38    |  Notifications    | [Notifications](https://suhibabbas.github.io/reading-notes/Notifications)|
+|  Read: 39    |  Kinesis    | [Kinesis](https://suhibabbas.github.io/reading-notes/Kinesis)|
 |  Read: 43    |  Open-Source    | [Open-Source](https://suhibabbas.github.io/reading-notes/OpenSource)|
